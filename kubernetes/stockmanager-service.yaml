@@ -29,7 +29,7 @@ spec:
     metadata:
       labels:
         app: stockmanager
-    spec:
+ spec:
       containers:
       - name: stockmanager
         image: thetips4you/stockmanager:latest
